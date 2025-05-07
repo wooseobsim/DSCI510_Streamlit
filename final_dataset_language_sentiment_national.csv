@@ -1,0 +1,798 @@
+State,Language,LEP_Speakers,ACS_Speakers,Reddit_Mentions,Avg_Sentiment
+Alabama,spanish,2885164.0,297453.0,120.0,0.08
+Alabama,korean,2885164.0,2223.0,144.0,0.11
+Alabama,chinese,2885164.0,1660.0,32.0,0.1
+Alabama,vietnamese,2885164.0,1804.0,1.0,0.12
+Alabama,arabic,2885164.0,153.0,12.0,0.13
+Alabama,arabic,2885164.0,986.0,12.0,0.13
+Alabama,german,2885164.0,1491.0,93.0,0.08
+Alabama,german,2885164.0,549.0,93.0,0.08
+Alabama,french,2885164.0,12827.0,204.0,0.08
+Alabama,french,2885164.0,9418.0,204.0,0.08
+Alabama,tagalog,2885164.0,419.0,1.0,0.07
+Alabama,tagalog,2885164.0,11681.0,1.0,0.07
+Alabama,hindi,2885164.0,107.0,2.0,0.04
+Alabama,hindi,2885164.0,2918.0,2.0,0.04
+Alabama,russian,2885164.0,,49.0,0.1
+Alabama,portuguese,2885164.0,,15.0,0.1
+Alabama,turkish,2885164.0,,,
+Alabama,japanese,2885164.0,219.0,30.0,0.08
+Alaska,tagalog,,,1.0,0.07
+Alaska,spanish,,,120.0,0.08
+Alaska,korean,,,144.0,0.11
+Alaska,russian,,,49.0,0.1
+Alaska,chinese,,,32.0,0.1
+Alaska,japanese,,,30.0,0.08
+Alaska,vietnamese,,,1.0,0.12
+Alaska,ukrainian,,,,
+Alaska,thai,,,3.0,0.02
+Alaska,german,,,93.0,0.08
+Alaska,polish,,,1.0,0.32
+Arizona,spanish,4263582.0,1928204.0,120.0,0.08
+Arizona,navajo,4263582.0,2874.0,6.0,0.18
+Arizona,chinese,4263582.0,10201.0,32.0,0.1
+Arizona,vietnamese,4263582.0,5949.0,1.0,0.12
+Arizona,arabic,4263582.0,349.0,12.0,0.13
+Arizona,arabic,4263582.0,3050.0,12.0,0.13
+Arizona,tagalog,4263582.0,1860.0,1.0,0.07
+Arizona,tagalog,4263582.0,27235.0,1.0,0.07
+Arizona,korean,4263582.0,7809.0,144.0,0.11
+Arizona,french,4263582.0,25202.0,204.0,0.08
+Arizona,french,4263582.0,20393.0,204.0,0.08
+Arizona,german,4263582.0,1844.0,93.0,0.08
+Arizona,german,4263582.0,611.0,93.0,0.08
+Arizona,russian,4263582.0,,49.0,0.1
+Arizona,japanese,4263582.0,2420.0,30.0,0.08
+Arizona,persian,4263582.0,,5.0,0.2
+Arizona,thai,4263582.0,,3.0,0.02
+Arkansas,spanish,,,120.0,0.08
+Arkansas,vietnamese,,,1.0,0.12
+Arkansas,chinese,,,32.0,0.1
+Arkansas,tagalog,,,1.0,0.07
+Arkansas,arabic,,,12.0,0.13
+Arkansas,german,,,93.0,0.08
+Arkansas,french,,,204.0,0.08
+Arkansas,korean,,,144.0,0.11
+Arkansas,portuguese,,,15.0,0.1
+Arkansas,japanese,,,30.0,0.08
+Arkansas,hindi,,,2.0,0.04
+California,spanish,17096720.0,10564860.0,120.0,0.08
+California,chinese,17096720.0,58762.0,32.0,0.1
+California,vietnamese,17096720.0,62464.0,1.0,0.12
+California,tagalog,17096720.0,25361.0,1.0,0.07
+California,tagalog,17096720.0,103110.0,1.0,0.07
+California,korean,17096720.0,87825.0,144.0,0.11
+California,armenian,17096720.0,,5.0,0.21
+California,persian,17096720.0,,5.0,0.2
+California,russian,17096720.0,,49.0,0.1
+California,japanese,17096720.0,11232.0,30.0,0.08
+California,arabic,17096720.0,3197.0,12.0,0.13
+California,arabic,17096720.0,19728.0,12.0,0.13
+California,hindi,17096720.0,4566.0,2.0,0.04
+California,hindi,17096720.0,94421.0,2.0,0.04
+California,thai,17096720.0,,3.0,0.02
+Colorado,spanish,6271450.0,2094548.0,120.0,0.08
+Colorado,vietnamese,6271450.0,56173.0,1.0,0.12
+Colorado,chinese,6271450.0,58598.0,32.0,0.1
+Colorado,korean,6271450.0,101723.0,144.0,0.11
+Colorado,russian,6271450.0,,49.0,0.1
+Colorado,arabic,6271450.0,1624.0,12.0,0.13
+Colorado,arabic,6271450.0,14813.0,12.0,0.13
+Colorado,german,6271450.0,60319.0,93.0,0.08
+Colorado,german,6271450.0,24215.0,93.0,0.08
+Colorado,french,6271450.0,52090.0,204.0,0.08
+Colorado,french,6271450.0,41374.0,204.0,0.08
+Colorado,nepali,6271450.0,24089.0,,
+Colorado,tagalog,6271450.0,45550.0,1.0,0.07
+Colorado,tagalog,6271450.0,41827.0,1.0,0.07
+Colorado,japanese,6271450.0,16082.0,30.0,0.08
+Colorado,persian,6271450.0,,5.0,0.2
+Connecticut,spanish,9974646.0,3162700.0,120.0,0.08
+Connecticut,portuguese,9974646.0,,15.0,0.1
+Connecticut,polish,9974646.0,,1.0,0.32
+Connecticut,chinese,9974646.0,158049.0,32.0,0.1
+Connecticut,italian,9974646.0,110965.0,1.0,0.0
+Connecticut,french,9974646.0,153978.0,204.0,0.08
+Connecticut,french,9974646.0,118089.0,204.0,0.08
+Connecticut,french,9974646.0,153978.0,204.0,0.08
+Connecticut,french,9974646.0,118089.0,204.0,0.08
+Connecticut,russian,9974646.0,,49.0,0.1
+Connecticut,vietnamese,9974646.0,57799.0,1.0,0.12
+Connecticut,arabic,9974646.0,105759.0,12.0,0.13
+Connecticut,arabic,9974646.0,49807.0,12.0,0.13
+Connecticut,korean,9974646.0,87664.0,144.0,0.11
+Connecticut,albanian,9974646.0,,,
+Connecticut,hindi,9974646.0,18412.0,2.0,0.04
+Connecticut,hindi,9974646.0,115681.0,2.0,0.04
+Connecticut,tagalog,9974646.0,29865.0,1.0,0.07
+Connecticut,tagalog,9974646.0,58555.0,1.0,0.07
+Connecticut,greek,9974646.0,,2.0,0.19
+Delaware,spanish,1303407.0,553932.0,120.0,0.08
+Delaware,chinese,1303407.0,3152.0,32.0,0.1
+Delaware,french,1303407.0,5982.0,204.0,0.08
+Delaware,french,1303407.0,4985.0,204.0,0.08
+Delaware,french,1303407.0,5982.0,204.0,0.08
+Delaware,french,1303407.0,4985.0,204.0,0.08
+Delaware,korean,1303407.0,1404.0,144.0,0.11
+Delaware,italian,1303407.0,2558.0,1.0,0.0
+Delaware,vietnamese,1303407.0,1094.0,1.0,0.12
+Delaware,german,1303407.0,3418.0,93.0,0.08
+Delaware,german,1303407.0,1726.0,93.0,0.08
+Delaware,tagalog,1303407.0,310.0,1.0,0.07
+Delaware,tagalog,1303407.0,7105.0,1.0,0.07
+Delaware,hindi,1303407.0,318.0,2.0,0.04
+Delaware,hindi,1303407.0,1416.0,2.0,0.04
+Delaware,urdu,1303407.0,2011.0,1.0,0.22
+Delaware,arabic,1303407.0,526.0,12.0,0.13
+Delaware,arabic,1303407.0,1385.0,12.0,0.13
+Delaware,telugu,1303407.0,,1.0,-0.11
+Delaware,dutch,1303407.0,,3.0,0.49
+District of Columbia,spanish,,,120.0,0.08
+District of Columbia,chinese,,,32.0,0.1
+District of Columbia,french,,,204.0,0.08
+District of Columbia,tagalog,,,1.0,0.07
+District of Columbia,russian,,,49.0,0.1
+District of Columbia,portuguese,,,15.0,0.1
+District of Columbia,italian,,,1.0,0.0
+District of Columbia,vietnamese,,,1.0,0.12
+District of Columbia,bengali,,,,
+District of Columbia,japanese,,,30.0,0.08
+District of Columbia,korean,,,144.0,0.11
+District of Columbia,thai,,,3.0,0.02
+District of Columbia,german,,,93.0,0.08
+Florida,spanish,13260036.0,5041025.0,120.0,0.08
+Florida,french,13260036.0,138687.0,204.0,0.08
+Florida,french,13260036.0,104666.0,204.0,0.08
+Florida,vietnamese,13260036.0,79800.0,1.0,0.12
+Florida,portuguese,13260036.0,,15.0,0.1
+Florida,chinese,13260036.0,53827.0,32.0,0.1
+Florida,french,13260036.0,138687.0,204.0,0.08
+Florida,french,13260036.0,104666.0,204.0,0.08
+Florida,tagalog,13260036.0,43076.0,1.0,0.07
+Florida,tagalog,13260036.0,83873.0,1.0,0.07
+Florida,russian,13260036.0,,49.0,0.1
+Florida,arabic,13260036.0,2271.0,12.0,0.13
+Florida,arabic,13260036.0,20162.0,12.0,0.13
+Florida,italian,13260036.0,40617.0,1.0,0.0
+Florida,german,13260036.0,422318.0,93.0,0.08
+Florida,german,13260036.0,175687.0,93.0,0.08
+Florida,korean,13260036.0,122876.0,144.0,0.11
+Florida,polish,13260036.0,,1.0,0.32
+Florida,thai,13260036.0,,3.0,0.02
+Georgia,spanish,9335747.0,1053160.0,120.0,0.08
+Georgia,vietnamese,9335747.0,14865.0,1.0,0.12
+Georgia,korean,9335747.0,21980.0,144.0,0.11
+Georgia,chinese,9335747.0,15915.0,32.0,0.1
+Georgia,french,9335747.0,69080.0,204.0,0.08
+Georgia,french,9335747.0,50361.0,204.0,0.08
+Georgia,hindi,9335747.0,1744.0,2.0,0.04
+Georgia,hindi,9335747.0,17580.0,2.0,0.04
+Georgia,french,9335747.0,69080.0,204.0,0.08
+Georgia,french,9335747.0,50361.0,204.0,0.08
+Georgia,russian,9335747.0,,49.0,0.1
+Georgia,arabic,9335747.0,20591.0,12.0,0.13
+Georgia,arabic,9335747.0,8974.0,12.0,0.13
+Georgia,portuguese,9335747.0,,15.0,0.1
+Georgia,persian,9335747.0,,5.0,0.2
+Georgia,german,9335747.0,19219.0,93.0,0.08
+Georgia,german,9335747.0,5349.0,93.0,0.08
+Georgia,japanese,9335747.0,3312.0,30.0,0.08
+Hawaii,tagalog,,,1.0,0.07
+Hawaii,japanese,,,30.0,0.08
+Hawaii,chinese,,,32.0,0.1
+Hawaii,korean,,,144.0,0.11
+Hawaii,spanish,,,120.0,0.08
+Hawaii,vietnamese,,,1.0,0.12
+Idaho,spanish,2394567.0,424286.0,120.0,0.08
+Idaho,chinese,2394567.0,1801.0,32.0,0.1
+Idaho,korean,2394567.0,2926.0,144.0,0.11
+Idaho,vietnamese,2394567.0,2318.0,1.0,0.12
+Idaho,arabic,2394567.0,333.0,12.0,0.13
+Idaho,arabic,2394567.0,430.0,12.0,0.13
+Idaho,german,2394567.0,447.0,93.0,0.08
+Idaho,german,2394567.0,133.0,93.0,0.08
+Idaho,tagalog,2394567.0,608.0,1.0,0.07
+Idaho,tagalog,2394567.0,12824.0,1.0,0.07
+Idaho,russian,2394567.0,,49.0,0.1
+Idaho,french,2394567.0,8038.0,204.0,0.08
+Idaho,french,2394567.0,6627.0,204.0,0.08
+Idaho,japanese,2394567.0,339.0,30.0,0.08
+Idaho,romanian,2394567.0,,,
+Idaho,persian,2394567.0,,5.0,0.2
+Idaho,ukrainian,2394567.0,,,
+Illinois,spanish,7231846.0,1976785.0,120.0,0.08
+Illinois,polish,7231846.0,,1.0,0.32
+Illinois,chinese,7231846.0,33931.0,32.0,0.1
+Illinois,korean,7231846.0,10872.0,144.0,0.11
+Illinois,tagalog,7231846.0,2219.0,1.0,0.07
+Illinois,tagalog,7231846.0,49336.0,1.0,0.07
+Illinois,arabic,7231846.0,1192.0,12.0,0.13
+Illinois,arabic,7231846.0,22983.0,12.0,0.13
+Illinois,russian,7231846.0,,49.0,0.1
+Illinois,urdu,7231846.0,62769.0,1.0,0.22
+Illinois,vietnamese,7231846.0,8653.0,1.0,0.12
+Illinois,italian,7231846.0,24413.0,1.0,0.0
+Illinois,hindi,7231846.0,8556.0,2.0,0.04
+Illinois,hindi,7231846.0,36079.0,2.0,0.04
+Illinois,french,7231846.0,46811.0,204.0,0.08
+Illinois,french,7231846.0,36673.0,204.0,0.08
+Illinois,greek,7231846.0,,2.0,0.19
+Illinois,german,7231846.0,5602.0,93.0,0.08
+Illinois,german,7231846.0,1584.0,93.0,0.08
+Indiana,spanish,8334120.0,953251.0,120.0,0.08
+Indiana,chinese,8334120.0,33531.0,32.0,0.1
+Indiana,german,8334120.0,22679.0,93.0,0.08
+Indiana,german,8334120.0,8903.0,93.0,0.08
+Indiana,arabic,8334120.0,29492.0,12.0,0.13
+Indiana,arabic,8334120.0,11816.0,12.0,0.13
+Indiana,korean,8334120.0,24560.0,144.0,0.11
+Indiana,vietnamese,8334120.0,13944.0,1.0,0.12
+Indiana,french,8334120.0,44078.0,204.0,0.08
+Indiana,french,8334120.0,32271.0,204.0,0.08
+Indiana,japanese,8334120.0,8339.0,30.0,0.08
+Indiana,dutch,8334120.0,,3.0,0.49
+Indiana,tagalog,8334120.0,10616.0,1.0,0.07
+Indiana,tagalog,8334120.0,66876.0,1.0,0.07
+Indiana,russian,8334120.0,,49.0,0.1
+Indiana,hindi,8334120.0,3579.0,2.0,0.04
+Indiana,hindi,8334120.0,27130.0,2.0,0.04
+Iowa,spanish,1789482.0,254595.0,120.0,0.08
+Iowa,chinese,1789482.0,5550.0,32.0,0.1
+Iowa,vietnamese,1789482.0,19775.0,1.0,0.12
+Iowa,german,1789482.0,10149.0,93.0,0.08
+Iowa,german,1789482.0,3455.0,93.0,0.08
+Iowa,arabic,1789482.0,984.0,12.0,0.13
+Iowa,arabic,1789482.0,1091.0,12.0,0.13
+Iowa,korean,1789482.0,30823.0,144.0,0.11
+Iowa,hindi,1789482.0,246.0,2.0,0.04
+Iowa,hindi,1789482.0,2853.0,2.0,0.04
+Iowa,french,1789482.0,14738.0,204.0,0.08
+Iowa,french,1789482.0,10329.0,204.0,0.08
+Iowa,thai,1789482.0,,3.0,0.02
+Iowa,tagalog,1789482.0,11048.0,1.0,0.07
+Iowa,tagalog,1789482.0,12305.0,1.0,0.07
+Iowa,russian,1789482.0,,49.0,0.1
+Kansas,spanish,3437766.0,464024.0,120.0,0.08
+Kansas,vietnamese,3437766.0,6847.0,1.0,0.12
+Kansas,chinese,3437766.0,4493.0,32.0,0.1
+Kansas,german,3437766.0,1914.0,93.0,0.08
+Kansas,german,3437766.0,422.0,93.0,0.08
+Kansas,korean,3437766.0,9831.0,144.0,0.11
+Kansas,arabic,3437766.0,388.0,12.0,0.13
+Kansas,arabic,3437766.0,1957.0,12.0,0.13
+Kansas,tagalog,3437766.0,2984.0,1.0,0.07
+Kansas,tagalog,3437766.0,23419.0,1.0,0.07
+Kansas,french,3437766.0,14612.0,204.0,0.08
+Kansas,french,3437766.0,11875.0,204.0,0.08
+Kansas,japanese,3437766.0,693.0,30.0,0.08
+Kansas,russian,3437766.0,,49.0,0.1
+Kansas,persian,3437766.0,,5.0,0.2
+Kansas,swahili,3437766.0,2624.0,,
+Kentucky,spanish,4833977.0,444236.0,120.0,0.08
+Kentucky,chinese,4833977.0,3286.0,32.0,0.1
+Kentucky,german,4833977.0,2990.0,93.0,0.08
+Kentucky,german,4833977.0,1268.0,93.0,0.08
+Kentucky,vietnamese,4833977.0,4461.0,1.0,0.12
+Kentucky,arabic,4833977.0,3237.0,12.0,0.13
+Kentucky,arabic,4833977.0,1465.0,12.0,0.13
+Kentucky,japanese,4833977.0,554.0,30.0,0.08
+Kentucky,french,4833977.0,18998.0,204.0,0.08
+Kentucky,french,4833977.0,14447.0,204.0,0.08
+Kentucky,korean,4833977.0,6064.0,144.0,0.11
+Kentucky,nepali,4833977.0,2243.0,,
+Kentucky,russian,4833977.0,,49.0,0.1
+Kentucky,tagalog,4833977.0,1603.0,1.0,0.07
+Kentucky,tagalog,4833977.0,25190.0,1.0,0.07
+Louisiana,spanish,14429870.0,7944234.0,120.0,0.08
+Louisiana,french,14429870.0,171926.0,204.0,0.08
+Louisiana,french,14429870.0,141167.0,204.0,0.08
+Louisiana,vietnamese,14429870.0,32428.0,1.0,0.12
+Louisiana,chinese,14429870.0,16083.0,32.0,0.1
+Louisiana,arabic,14429870.0,1328.0,12.0,0.13
+Louisiana,arabic,14429870.0,7270.0,12.0,0.13
+Louisiana,tagalog,14429870.0,9753.0,1.0,0.07
+Louisiana,tagalog,14429870.0,69089.0,1.0,0.07
+Louisiana,korean,14429870.0,42181.0,144.0,0.11
+Louisiana,portuguese,14429870.0,,15.0,0.1
+Louisiana,japanese,14429870.0,3094.0,30.0,0.08
+Louisiana,urdu,14429870.0,34182.0,1.0,0.22
+Louisiana,german,14429870.0,14573.0,93.0,0.08
+Louisiana,german,14429870.0,2825.0,93.0,0.08
+Louisiana,persian,14429870.0,,5.0,0.2
+Louisiana,russian,14429870.0,,49.0,0.1
+Louisiana,thai,14429870.0,,3.0,0.02
+Maine,french,,,204.0,0.08
+Maine,spanish,,,120.0,0.08
+Maine,chinese,,,32.0,0.1
+Maine,vietnamese,,,1.0,0.12
+Maine,arabic,,,12.0,0.13
+Maine,russian,,,49.0,0.1
+Maine,tagalog,,,1.0,0.07
+Maine,german,,,93.0,0.08
+Maine,thai,,,3.0,0.02
+Maine,korean,,,144.0,0.11
+Maine,polish,,,1.0,0.32
+Maine,japanese,,,30.0,0.08
+Maryland,spanish,3928636.0,779954.0,120.0,0.08
+Maryland,chinese,3928636.0,11034.0,32.0,0.1
+Maryland,korean,3928636.0,27133.0,144.0,0.11
+Maryland,vietnamese,3928636.0,20753.0,1.0,0.12
+Maryland,french,3928636.0,60832.0,204.0,0.08
+Maryland,french,3928636.0,47314.0,204.0,0.08
+Maryland,tagalog,3928636.0,6380.0,1.0,0.07
+Maryland,tagalog,3928636.0,24599.0,1.0,0.07
+Maryland,russian,3928636.0,,49.0,0.1
+Maryland,urdu,3928636.0,25843.0,1.0,0.22
+Maryland,persian,3928636.0,,5.0,0.2
+Maryland,french,3928636.0,60832.0,204.0,0.08
+Maryland,french,3928636.0,47314.0,204.0,0.08
+Maryland,portuguese,3928636.0,,15.0,0.1
+Maryland,arabic,3928636.0,864.0,12.0,0.13
+Maryland,arabic,3928636.0,7598.0,12.0,0.13
+Massachusetts,spanish,6583378.0,1223661.0,120.0,0.08
+Massachusetts,portuguese,6583378.0,,15.0,0.1
+Massachusetts,chinese,6583378.0,41294.0,32.0,0.1
+Massachusetts,french,6583378.0,88096.0,204.0,0.08
+Massachusetts,french,6583378.0,71657.0,204.0,0.08
+Massachusetts,vietnamese,6583378.0,119449.0,1.0,0.12
+Massachusetts,russian,6583378.0,,49.0,0.1
+Massachusetts,arabic,6583378.0,1507.0,12.0,0.13
+Massachusetts,arabic,6583378.0,21530.0,12.0,0.13
+Massachusetts,french,6583378.0,88096.0,204.0,0.08
+Massachusetts,french,6583378.0,71657.0,204.0,0.08
+Massachusetts,italian,6583378.0,31023.0,1.0,0.0
+Massachusetts,korean,6583378.0,204119.0,144.0,0.11
+Massachusetts,greek,6583378.0,,2.0,0.19
+Massachusetts,polish,6583378.0,,1.0,0.32
+Massachusetts,hindi,6583378.0,6865.0,2.0,0.04
+Massachusetts,hindi,6583378.0,37252.0,2.0,0.04
+Michigan,spanish,7509899.0,937723.0,120.0,0.08
+Michigan,arabic,7509899.0,3264.0,12.0,0.13
+Michigan,arabic,7509899.0,6327.0,12.0,0.13
+Michigan,chinese,7509899.0,20404.0,32.0,0.1
+Michigan,vietnamese,7509899.0,11665.0,1.0,0.12
+Michigan,albanian,7509899.0,,,
+Michigan,korean,7509899.0,15961.0,144.0,0.11
+Michigan,bengali,7509899.0,,,
+Michigan,polish,7509899.0,,1.0,0.32
+Michigan,german,7509899.0,3239.0,93.0,0.08
+Michigan,german,7509899.0,1127.0,93.0,0.08
+Michigan,italian,7509899.0,15143.0,1.0,0.0
+Michigan,japanese,7509899.0,5261.0,30.0,0.08
+Michigan,russian,7509899.0,,49.0,0.1
+Michigan,tagalog,7509899.0,4296.0,1.0,0.07
+Michigan,tagalog,7509899.0,57764.0,1.0,0.07
+Minnesota,spanish,4836236.0,469883.0,120.0,0.08
+Minnesota,vietnamese,4836236.0,5089.0,1.0,0.12
+Minnesota,chinese,4836236.0,5325.0,32.0,0.1
+Minnesota,russian,4836236.0,,49.0,0.1
+Minnesota,german,4836236.0,2127.0,93.0,0.08
+Minnesota,german,4836236.0,775.0,93.0,0.08
+Minnesota,arabic,4836236.0,4570.0,12.0,0.13
+Minnesota,arabic,4836236.0,2542.0,12.0,0.13
+Minnesota,french,4836236.0,23193.0,204.0,0.08
+Minnesota,french,4836236.0,18012.0,204.0,0.08
+Minnesota,korean,4836236.0,6592.0,144.0,0.11
+Minnesota,tagalog,4836236.0,1503.0,1.0,0.07
+Minnesota,tagalog,4836236.0,47326.0,1.0,0.07
+Mississippi,spanish,,,120.0,0.08
+Mississippi,vietnamese,,,1.0,0.12
+Mississippi,chinese,,,32.0,0.1
+Mississippi,french,,,204.0,0.08
+Mississippi,arabic,,,12.0,0.13
+Mississippi,tagalog,,,1.0,0.07
+Mississippi,german,,,93.0,0.08
+Mississippi,korean,,,144.0,0.11
+Mississippi,japanese,,,30.0,0.08
+Mississippi,russian,,,49.0,0.1
+Mississippi,italian,,,1.0,0.0
+Mississippi,hindi,,,2.0,0.04
+Missouri,spanish,4714635.0,329605.0,120.0,0.08
+Missouri,chinese,4714635.0,5150.0,32.0,0.1
+Missouri,vietnamese,4714635.0,3778.0,1.0,0.12
+Missouri,german,4714635.0,1949.0,93.0,0.08
+Missouri,german,4714635.0,688.0,93.0,0.08
+Missouri,arabic,4714635.0,2536.0,12.0,0.13
+Missouri,arabic,4714635.0,1529.0,12.0,0.13
+Missouri,korean,4714635.0,5026.0,144.0,0.11
+Missouri,russian,4714635.0,,49.0,0.1
+Missouri,french,4714635.0,16440.0,204.0,0.08
+Missouri,french,4714635.0,13392.0,204.0,0.08
+Missouri,tagalog,4714635.0,1248.0,1.0,0.07
+Missouri,tagalog,4714635.0,28709.0,1.0,0.07
+Missouri,persian,4714635.0,,5.0,0.2
+Missouri,portuguese,4714635.0,,15.0,0.1
+Montana,spanish,,,120.0,0.08
+Montana,german,,,93.0,0.08
+Montana,chinese,,,32.0,0.1
+Montana,japanese,,,30.0,0.08
+Montana,tagalog,,,1.0,0.07
+Montana,french,,,204.0,0.08
+Montana,russian,,,49.0,0.1
+Montana,korean,,,144.0,0.11
+Montana,arabic,,,12.0,0.13
+Montana,thai,,,3.0,0.02
+Montana,vietnamese,,,1.0,0.12
+Montana,ukrainian,,,,
+Montana,italian,,,1.0,0.0
+Nebraska,spanish,3888731.0,1453262.0,120.0,0.08
+Nebraska,vietnamese,3888731.0,5424.0,1.0,0.12
+Nebraska,chinese,3888731.0,7938.0,32.0,0.1
+Nebraska,arabic,3888731.0,254.0,12.0,0.13
+Nebraska,arabic,3888731.0,2321.0,12.0,0.13
+Nebraska,french,3888731.0,22084.0,204.0,0.08
+Nebraska,french,3888731.0,18239.0,204.0,0.08
+Nebraska,german,3888731.0,1473.0,93.0,0.08
+Nebraska,german,3888731.0,372.0,93.0,0.08
+Nebraska,korean,3888731.0,7029.0,144.0,0.11
+Nebraska,nepali,3888731.0,2683.0,,
+Nebraska,russian,3888731.0,,49.0,0.1
+Nebraska,persian,3888731.0,,5.0,0.2
+Nebraska,japanese,3888731.0,1832.0,30.0,0.08
+Nevada,spanish,17896132.0,11029566.0,120.0,0.08
+Nevada,tagalog,17896132.0,28594.0,1.0,0.07
+Nevada,tagalog,17896132.0,100980.0,1.0,0.07
+Nevada,chinese,17896132.0,57970.0,32.0,0.1
+Nevada,korean,17896132.0,100655.0,144.0,0.11
+Nevada,vietnamese,17896132.0,72061.0,1.0,0.12
+Nevada,thai,17896132.0,,3.0,0.02
+Nevada,japanese,17896132.0,9858.0,30.0,0.08
+Nevada,arabic,17896132.0,3383.0,12.0,0.13
+Nevada,arabic,17896132.0,18431.0,12.0,0.13
+Nevada,russian,17896132.0,,49.0,0.1
+Nevada,french,17896132.0,136432.0,204.0,0.08
+Nevada,french,17896132.0,119414.0,204.0,0.08
+Nevada,persian,17896132.0,,5.0,0.2
+Nevada,german,17896132.0,8520.0,93.0,0.08
+Nevada,german,17896132.0,1964.0,93.0,0.08
+New Hampshire,spanish,3048681.0,634580.0,120.0,0.08
+New Hampshire,french,3048681.0,38901.0,204.0,0.08
+New Hampshire,french,3048681.0,30955.0,204.0,0.08
+New Hampshire,chinese,3048681.0,5099.0,32.0,0.1
+New Hampshire,nepali,3048681.0,6699.0,,
+New Hampshire,vietnamese,3048681.0,8796.0,1.0,0.12
+New Hampshire,portuguese,3048681.0,,15.0,0.1
+New Hampshire,greek,3048681.0,,2.0,0.19
+New Hampshire,arabic,3048681.0,187.0,12.0,0.13
+New Hampshire,arabic,3048681.0,3554.0,12.0,0.13
+New Hampshire,indonesian,3048681.0,,1.0,0.26
+New Hampshire,korean,3048681.0,11253.0,144.0,0.11
+New Hampshire,russian,3048681.0,,49.0,0.1
+New Hampshire,french,3048681.0,38901.0,204.0,0.08
+New Hampshire,french,3048681.0,30955.0,204.0,0.08
+New Hampshire,polish,3048681.0,,1.0,0.32
+New Jersey,spanish,5299771.0,1784996.0,120.0,0.08
+New Jersey,chinese,5299771.0,88179.0,32.0,0.1
+New Jersey,korean,5299771.0,121102.0,144.0,0.11
+New Jersey,portuguese,5299771.0,,15.0,0.1
+New Jersey,polish,5299771.0,,1.0,0.32
+New Jersey,italian,5299771.0,62984.0,1.0,0.0
+New Jersey,arabic,5299771.0,1323.0,12.0,0.13
+New Jersey,arabic,5299771.0,21584.0,12.0,0.13
+New Jersey,tagalog,5299771.0,52240.0,1.0,0.07
+New Jersey,tagalog,5299771.0,27869.0,1.0,0.07
+New Jersey,russian,5299771.0,,49.0,0.1
+New Jersey,french,5299771.0,57776.0,204.0,0.08
+New Jersey,french,5299771.0,43224.0,204.0,0.08
+New Jersey,hindi,5299771.0,7901.0,2.0,0.04
+New Jersey,hindi,5299771.0,37487.0,2.0,0.04
+New Jersey,vietnamese,5299771.0,68862.0,1.0,0.12
+New Jersey,french,5299771.0,57776.0,204.0,0.08
+New Jersey,french,5299771.0,43224.0,204.0,0.08
+New Jersey,urdu,5299771.0,58953.0,1.0,0.22
+New Mexico,spanish,1311932.0,609769.0,120.0,0.08
+New Mexico,navajo,1311932.0,1562.0,6.0,0.18
+New Mexico,vietnamese,1311932.0,1218.0,1.0,0.12
+New Mexico,german,1311932.0,5707.0,93.0,0.08
+New Mexico,german,1311932.0,2544.0,93.0,0.08
+New Mexico,chinese,1311932.0,2492.0,32.0,0.1
+New Mexico,arabic,1311932.0,682.0,12.0,0.13
+New Mexico,arabic,1311932.0,1336.0,12.0,0.13
+New Mexico,korean,1311932.0,1654.0,144.0,0.11
+New Mexico,tagalog,1311932.0,436.0,1.0,0.07
+New Mexico,tagalog,1311932.0,7828.0,1.0,0.07
+New Mexico,japanese,1311932.0,558.0,30.0,0.08
+New Mexico,french,1311932.0,9030.0,204.0,0.08
+New Mexico,french,1311932.0,7048.0,204.0,0.08
+New Mexico,italian,1311932.0,1934.0,1.0,0.0
+New Mexico,russian,1311932.0,,49.0,0.1
+New Mexico,hindi,1311932.0,294.0,2.0,0.04
+New Mexico,hindi,1311932.0,2002.0,2.0,0.04
+New Mexico,persian,1311932.0,,5.0,0.2
+New Mexico,thai,1311932.0,,3.0,0.02
+New York,spanish,17671230.0,7387645.0,120.0,0.08
+New York,chinese,17671230.0,203961.0,32.0,0.1
+New York,russian,17671230.0,,49.0,0.1
+New York,french,17671230.0,233459.0,204.0,0.08
+New York,french,17671230.0,180754.0,204.0,0.08
+New York,korean,17671230.0,206975.0,144.0,0.11
+New York,italian,17671230.0,144883.0,1.0,0.0
+New York,yiddish,17671230.0,364045.0,2.0,-0.0
+New York,bengali,17671230.0,,,
+New York,polish,17671230.0,,1.0,0.32
+New York,arabic,17671230.0,67206.0,12.0,0.13
+New York,arabic,17671230.0,57525.0,12.0,0.13
+New York,french,17671230.0,233459.0,204.0,0.08
+New York,french,17671230.0,180754.0,204.0,0.08
+New York,urdu,17671230.0,284025.0,1.0,0.22
+New York,tagalog,17671230.0,73799.0,1.0,0.07
+New York,tagalog,17671230.0,118822.0,1.0,0.07
+New York,greek,17671230.0,,2.0,0.19
+New York,albanian,17671230.0,,,
+North Carolina,spanish,8881160.0,1575671.0,120.0,0.08
+North Carolina,chinese,8881160.0,12757.0,32.0,0.1
+North Carolina,vietnamese,8881160.0,22422.0,1.0,0.12
+North Carolina,korean,8881160.0,32839.0,144.0,0.11
+North Carolina,french,8881160.0,64344.0,204.0,0.08
+North Carolina,french,8881160.0,49715.0,204.0,0.08
+North Carolina,arabic,8881160.0,854.0,12.0,0.13
+North Carolina,arabic,8881160.0,6179.0,12.0,0.13
+North Carolina,russian,8881160.0,,49.0,0.1
+North Carolina,tagalog,8881160.0,10417.0,1.0,0.07
+North Carolina,tagalog,8881160.0,45133.0,1.0,0.07
+North Carolina,german,8881160.0,28852.0,93.0,0.08
+North Carolina,german,8881160.0,7498.0,93.0,0.08
+North Carolina,hindi,8881160.0,1478.0,2.0,0.04
+North Carolina,hindi,8881160.0,18436.0,2.0,0.04
+North Carolina,japanese,8881160.0,1933.0,30.0,0.08
+North Dakota,spanish,,,120.0,0.08
+North Dakota,german,,,93.0,0.08
+North Dakota,chinese,,,32.0,0.1
+North Dakota,vietnamese,,,1.0,0.12
+North Dakota,arabic,,,12.0,0.13
+North Dakota,swahili,,,,
+North Dakota,russian,,,49.0,0.1
+North Dakota,japanese,,,30.0,0.08
+North Dakota,nepali,,,,
+North Dakota,french,,,204.0,0.08
+North Dakota,korean,,,144.0,0.11
+North Dakota,tagalog,,,1.0,0.07
+Ohio,spanish,5726689.0,392621.0,120.0,0.08
+Ohio,chinese,5726689.0,13920.0,32.0,0.1
+Ohio,german,5726689.0,2135.0,93.0,0.08
+Ohio,german,5726689.0,364.0,93.0,0.08
+Ohio,arabic,5726689.0,18258.0,12.0,0.13
+Ohio,arabic,5726689.0,6620.0,12.0,0.13
+Ohio,russian,5726689.0,,49.0,0.1
+Ohio,french,5726689.0,27552.0,204.0,0.08
+Ohio,french,5726689.0,21557.0,204.0,0.08
+Ohio,vietnamese,5726689.0,4507.0,1.0,0.12
+Ohio,korean,5726689.0,5973.0,144.0,0.11
+Ohio,italian,5726689.0,9911.0,1.0,0.0
+Ohio,japanese,5726689.0,4009.0,30.0,0.08
+Ohio,dutch,5726689.0,,3.0,0.49
+Ohio,ukrainian,5726689.0,,,
+Ohio,romanian,5726689.0,,,
+Oklahoma,spanish,7037176.0,1929437.0,120.0,0.08
+Oklahoma,vietnamese,7037176.0,8870.0,1.0,0.12
+Oklahoma,chinese,7037176.0,26217.0,32.0,0.1
+Oklahoma,korean,7037176.0,11410.0,144.0,0.11
+Oklahoma,german,7037176.0,5379.0,93.0,0.08
+Oklahoma,german,7037176.0,1494.0,93.0,0.08
+Oklahoma,arabic,7037176.0,1746.0,12.0,0.13
+Oklahoma,arabic,7037176.0,19517.0,12.0,0.13
+Oklahoma,tagalog,7037176.0,2540.0,1.0,0.07
+Oklahoma,tagalog,7037176.0,38146.0,1.0,0.07
+Oklahoma,french,7037176.0,42355.0,204.0,0.08
+Oklahoma,french,7037176.0,31845.0,204.0,0.08
+Oklahoma,thai,7037176.0,,3.0,0.02
+Oklahoma,urdu,7037176.0,46872.0,1.0,0.22
+Oklahoma,cherokee,7037176.0,8813.0,1.0,-0.04
+Oklahoma,persian,7037176.0,,5.0,0.2
+Oregon,spanish,4612475.0,685441.0,120.0,0.08
+Oregon,vietnamese,4612475.0,5761.0,1.0,0.12
+Oregon,chinese,4612475.0,5789.0,32.0,0.1
+Oregon,russian,4612475.0,,49.0,0.1
+Oregon,korean,4612475.0,7064.0,144.0,0.11
+Oregon,ukrainian,4612475.0,,,
+Oregon,japanese,4612475.0,604.0,30.0,0.08
+Oregon,arabic,4612475.0,9229.0,12.0,0.13
+Oregon,arabic,4612475.0,3151.0,12.0,0.13
+Oregon,romanian,4612475.0,,,
+Oregon,german,4612475.0,6897.0,93.0,0.08
+Oregon,german,4612475.0,4143.0,93.0,0.08
+Oregon,persian,4612475.0,,5.0,0.2
+Oregon,french,4612475.0,25824.0,204.0,0.08
+Oregon,french,4612475.0,19154.0,204.0,0.08
+Oregon,thai,4612475.0,,3.0,0.02
+Pennsylvania,spanish,6790180.0,729788.0,120.0,0.08
+Pennsylvania,chinese,6790180.0,36633.0,32.0,0.1
+Pennsylvania,vietnamese,6790180.0,9916.0,1.0,0.12
+Pennsylvania,russian,6790180.0,,49.0,0.1
+Pennsylvania,korean,6790180.0,16963.0,144.0,0.11
+Pennsylvania,italian,6790180.0,27554.0,1.0,0.0
+Pennsylvania,arabic,6790180.0,23492.0,12.0,0.13
+Pennsylvania,arabic,6790180.0,9957.0,12.0,0.13
+Pennsylvania,french,6790180.0,45710.0,204.0,0.08
+Pennsylvania,french,6790180.0,32968.0,204.0,0.08
+Pennsylvania,german,6790180.0,18801.0,93.0,0.08
+Pennsylvania,german,6790180.0,7156.0,93.0,0.08
+Pennsylvania,polish,6790180.0,,1.0,0.32
+Pennsylvania,french,6790180.0,45710.0,204.0,0.08
+Pennsylvania,french,6790180.0,32968.0,204.0,0.08
+Pennsylvania,portuguese,6790180.0,,15.0,0.1
+Rhode Island,spanish,1692060.0,342997.0,120.0,0.08
+Rhode Island,portuguese,1692060.0,,15.0,0.1
+Rhode Island,chinese,1692060.0,6702.0,32.0,0.1
+Rhode Island,french,1692060.0,13901.0,204.0,0.08
+Rhode Island,french,1692060.0,11411.0,204.0,0.08
+Rhode Island,french,1692060.0,13901.0,204.0,0.08
+Rhode Island,french,1692060.0,11411.0,204.0,0.08
+Rhode Island,italian,1692060.0,5102.0,1.0,0.0
+Rhode Island,arabic,1692060.0,289.0,12.0,0.13
+Rhode Island,arabic,1692060.0,1356.0,12.0,0.13
+Rhode Island,russian,1692060.0,,49.0,0.1
+Rhode Island,vietnamese,1692060.0,20731.0,1.0,0.12
+Rhode Island,polish,1692060.0,,1.0,0.32
+Rhode Island,korean,1692060.0,31886.0,144.0,0.11
+Rhode Island,tagalog,1692060.0,11155.0,1.0,0.07
+Rhode Island,tagalog,1692060.0,11648.0,1.0,0.07
+South Carolina,spanish,4009139.0,347595.0,120.0,0.08
+South Carolina,chinese,4009139.0,3868.0,32.0,0.1
+South Carolina,vietnamese,4009139.0,4460.0,1.0,0.12
+South Carolina,korean,4009139.0,6153.0,144.0,0.11
+South Carolina,french,4009139.0,20913.0,204.0,0.08
+South Carolina,french,4009139.0,14666.0,204.0,0.08
+South Carolina,tagalog,4009139.0,1693.0,1.0,0.07
+South Carolina,tagalog,4009139.0,24070.0,1.0,0.07
+South Carolina,russian,4009139.0,,49.0,0.1
+South Carolina,german,4009139.0,2748.0,93.0,0.08
+South Carolina,german,4009139.0,957.0,93.0,0.08
+South Carolina,arabic,4009139.0,3112.0,12.0,0.13
+South Carolina,arabic,4009139.0,1829.0,12.0,0.13
+South Carolina,portuguese,4009139.0,,15.0,0.1
+South Carolina,japanese,4009139.0,692.0,30.0,0.08
+South Carolina,ukrainian,4009139.0,,,
+South Carolina,hindi,4009139.0,495.0,2.0,0.04
+South Carolina,hindi,4009139.0,6088.0,2.0,0.04
+South Dakota,spanish,,,120.0,0.08
+South Dakota,german,,,93.0,0.08
+South Dakota,chinese,,,32.0,0.1
+South Dakota,vietnamese,,,1.0,0.12
+South Dakota,nepali,,,,
+South Dakota,tagalog,,,1.0,0.07
+South Dakota,korean,,,144.0,0.11
+South Dakota,russian,,,49.0,0.1
+South Dakota,ukrainian,,,,
+South Dakota,french,,,204.0,0.08
+Tennessee,spanish,4760753.0,449926.0,120.0,0.08
+Tennessee,arabic,4760753.0,996.0,12.0,0.13
+Tennessee,arabic,4760753.0,1211.0,12.0,0.13
+Tennessee,chinese,4760753.0,4305.0,32.0,0.1
+Tennessee,vietnamese,4760753.0,4471.0,1.0,0.12
+Tennessee,korean,4760753.0,6314.0,144.0,0.11
+Tennessee,french,4760753.0,73453.0,204.0,0.08
+Tennessee,french,4760753.0,63190.0,204.0,0.08
+Tennessee,german,4760753.0,5449.0,93.0,0.08
+Tennessee,german,4760753.0,1533.0,93.0,0.08
+Tennessee,japanese,4760753.0,811.0,30.0,0.08
+Tennessee,tagalog,4760753.0,1843.0,1.0,0.07
+Tennessee,tagalog,4760753.0,16607.0,1.0,0.07
+Tennessee,hindi,4760753.0,224.0,2.0,0.04
+Tennessee,hindi,4760753.0,4787.0,2.0,0.04
+Tennessee,russian,4760753.0,,49.0,0.1
+Tennessee,persian,4760753.0,,5.0,0.2
+Texas,spanish,14263976.0,8179791.0,120.0,0.08
+Texas,vietnamese,14263976.0,29820.0,1.0,0.12
+Texas,chinese,14263976.0,19234.0,32.0,0.1
+Texas,korean,14263976.0,41600.0,144.0,0.11
+Texas,arabic,14263976.0,1910.0,12.0,0.13
+Texas,arabic,14263976.0,10863.0,12.0,0.13
+Texas,urdu,14263976.0,47214.0,1.0,0.22
+Texas,tagalog,14263976.0,11780.0,1.0,0.07
+Texas,tagalog,14263976.0,76764.0,1.0,0.07
+Texas,french,14263976.0,130564.0,204.0,0.08
+Texas,french,14263976.0,97392.0,204.0,0.08
+Texas,hindi,14263976.0,2281.0,2.0,0.04
+Texas,hindi,14263976.0,32386.0,2.0,0.04
+Texas,persian,14263976.0,,5.0,0.2
+Texas,german,14263976.0,22418.0,93.0,0.08
+Texas,german,14263976.0,6052.0,93.0,0.08
+Texas,russian,14263976.0,,49.0,0.1
+Texas,japanese,14263976.0,4093.0,30.0,0.08
+Utah,spanish,4245545.0,923760.0,120.0,0.08
+Utah,chinese,4245545.0,28520.0,32.0,0.1
+Utah,vietnamese,4245545.0,129502.0,1.0,0.12
+Utah,korean,4245545.0,230841.0,144.0,0.11
+Utah,navajo,4245545.0,2227.0,6.0,0.18
+Utah,nepali,4245545.0,15162.0,,
+Utah,tagalog,4245545.0,101339.0,1.0,0.07
+Utah,tagalog,4245545.0,25173.0,1.0,0.07
+Utah,german,4245545.0,85445.0,93.0,0.08
+Utah,german,4245545.0,35528.0,93.0,0.08
+Utah,russian,4245545.0,,49.0,0.1
+Utah,arabic,4245545.0,567.0,12.0,0.13
+Utah,arabic,4245545.0,15783.0,12.0,0.13
+Utah,french,4245545.0,52076.0,204.0,0.08
+Utah,french,4245545.0,42264.0,204.0,0.08
+Utah,japanese,4245545.0,6948.0,30.0,0.08
+Vermont,french,,,204.0,0.08
+Vermont,spanish,,,120.0,0.08
+Vermont,chinese,,,32.0,0.1
+Vermont,vietnamese,,,1.0,0.12
+Vermont,nepali,,,,
+Vermont,german,,,93.0,0.08
+Vermont,italian,,,1.0,0.0
+Vermont,arabic,,,12.0,0.13
+Vermont,russian,,,49.0,0.1
+Vermont,tagalog,,,1.0,0.07
+Vermont,portuguese,,,15.0,0.1
+Vermont,japanese,,,30.0,0.08
+Vermont,thai,,,3.0,0.02
+Virginia,spanish,7832643.0,849778.0,120.0,0.08
+Virginia,korean,7832643.0,19193.0,144.0,0.11
+Virginia,vietnamese,7832643.0,14504.0,1.0,0.12
+Virginia,chinese,7832643.0,21700.0,32.0,0.1
+Virginia,arabic,7832643.0,4592.0,12.0,0.13
+Virginia,arabic,7832643.0,11536.0,12.0,0.13
+Virginia,tagalog,7832643.0,4689.0,1.0,0.07
+Virginia,tagalog,7832643.0,57250.0,1.0,0.07
+Virginia,persian,7832643.0,,5.0,0.2
+Virginia,urdu,7832643.0,29969.0,1.0,0.22
+Virginia,french,7832643.0,53560.0,204.0,0.08
+Virginia,french,7832643.0,43062.0,204.0,0.08
+Virginia,russian,7832643.0,,49.0,0.1
+Virginia,hindi,7832643.0,2432.0,2.0,0.04
+Virginia,hindi,7832643.0,20187.0,2.0,0.04
+Virginia,german,7832643.0,7296.0,93.0,0.08
+Virginia,german,7832643.0,1615.0,93.0,0.08
+Virginia,bengali,7832643.0,,,
+Washington,spanish,5497173.0,800929.0,120.0,0.08
+Washington,chinese,5497173.0,6058.0,32.0,0.1
+Washington,vietnamese,5497173.0,7452.0,1.0,0.12
+Washington,korean,5497173.0,9889.0,144.0,0.11
+Washington,russian,5497173.0,,49.0,0.1
+Washington,tagalog,5497173.0,2437.0,1.0,0.07
+Washington,tagalog,5497173.0,44465.0,1.0,0.07
+Washington,ukrainian,5497173.0,,,
+Washington,japanese,5497173.0,1170.0,30.0,0.08
+Washington,arabic,5497173.0,1062.0,12.0,0.13
+Washington,arabic,5497173.0,2797.0,12.0,0.13
+Washington,german,5497173.0,2911.0,93.0,0.08
+Washington,german,5497173.0,677.0,93.0,0.08
+West Virginia,spanish,,,120.0,0.08
+West Virginia,chinese,,,32.0,0.1
+West Virginia,french,,,204.0,0.08
+West Virginia,german,,,93.0,0.08
+West Virginia,arabic,,,12.0,0.13
+West Virginia,vietnamese,,,1.0,0.12
+West Virginia,korean,,,144.0,0.11
+West Virginia,japanese,,,30.0,0.08
+West Virginia,tagalog,,,1.0,0.07
+West Virginia,italian,,,1.0,0.0
+West Virginia,thai,,,3.0,0.02
+West Virginia,nepali,,,,
+West Virginia,persian,,,5.0,0.2
+West Virginia,russian,,,49.0,0.1
+West Virginia,urdu,,,1.0,0.22
+Wisconsin,spanish,5062833.0,415670.0,120.0,0.08
+Wisconsin,chinese,5062833.0,6408.0,32.0,0.1
+Wisconsin,german,5062833.0,1953.0,93.0,0.08
+Wisconsin,german,5062833.0,493.0,93.0,0.08
+Wisconsin,arabic,5062833.0,6706.0,12.0,0.13
+Wisconsin,arabic,5062833.0,2450.0,12.0,0.13
+Wisconsin,russian,5062833.0,,49.0,0.1
+Wisconsin,korean,5062833.0,5174.0,144.0,0.11
+Wisconsin,vietnamese,5062833.0,3872.0,1.0,0.12
+Wisconsin,french,5062833.0,21380.0,204.0,0.08
+Wisconsin,french,5062833.0,16469.0,204.0,0.08
+Wisconsin,polish,5062833.0,,1.0,0.32
+Wisconsin,hindi,5062833.0,501.0,2.0,0.04
+Wisconsin,hindi,5062833.0,7477.0,2.0,0.04
+Wisconsin,albanian,5062833.0,,,
+Wisconsin,tagalog,5062833.0,1302.0,1.0,0.07
+Wisconsin,tagalog,5062833.0,48333.0,1.0,0.07
+Wyoming,spanish,,,120.0,0.08
+Wyoming,chinese,,,32.0,0.1
+Wyoming,german,,,93.0,0.08
+Wyoming,tagalog,,,1.0,0.07
+Wyoming,french,,,204.0,0.08
+Wyoming,korean,,,144.0,0.11
+Wyoming,vietnamese,,,1.0,0.12
+Wyoming,italian,,,1.0,0.0
+Wyoming,russian,,,49.0,0.1
+Wyoming,indonesian,,,1.0,0.26
+Wyoming,japanese,,,30.0,0.08
+Wyoming,nepali,,,,
+Wyoming,persian,,,5.0,0.2
+Wyoming,navajo,,,6.0,0.18
